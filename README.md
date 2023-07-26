@@ -4,7 +4,6 @@ Disclaimer: This extension is in **ALPHA** so it might not work for some people
 If it doesn't, please dm @pacifiky on twitter.
 ## How to install
 ### First, download the code as a ZIP.
-#### Download THE ZIP
 ![image](https://github.com/infinitypacific/extension/assets/87620151/355e1fc7-589b-438e-8723-9302a145f520)
 #### NOT SCRIPT.JS
 ![image](https://github.com/infinitypacific/extension/assets/87620151/e7766d18-7d6a-4353-b287-32b3bd1a3f1a)
