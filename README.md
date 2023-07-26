@@ -5,6 +5,9 @@ If it doesn't, please dm @pacifiky on twitter.
 ## How to install
 ### First, download the code as a ZIP.
 ![image](https://github.com/infinitypacific/extension/assets/87620151/355e1fc7-589b-438e-8723-9302a145f520)
+### Or download the code from the Latest Release.
+![image](https://github.com/infinitypacific/extension/assets/87620151/be4a77ff-f551-4d96-9888-9839d0dc6409)
+![image](https://github.com/infinitypacific/extension/assets/87620151/725ce7ee-6b57-4d14-93dd-0571a5dee820)
 ### Then, extract the zip
 ![extract all](https://github.com/infinitypacific/extension/assets/87620151/06cc0d26-3c43-466e-9f6e-35a1a5671b95)
 ### Then, navigate to the chrome://extensions page and turn on dev mode
