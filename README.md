@@ -4,7 +4,7 @@ Disclaimer: This extension is in **ALPHA** so it might not work for some people
 If it doesn't, please dm @pacifiky on twitter.
 ## How to install
 ### First, download the code as a ZIP.
-![image](https://github.com/infinitypacific/extension/assets/87620151/85657382-4010-4873-8b96-2d8edc44c250)
+![image](https://github.com/infinitypacific/extension/assets/87620151/355e1fc7-589b-438e-8723-9302a145f520)
 ### Then, extract the zip
 ![extract all](https://github.com/infinitypacific/extension/assets/87620151/06cc0d26-3c43-466e-9f6e-35a1a5671b95)
 ### Then, navigate to the chrome://extensions page and turn on dev mode
