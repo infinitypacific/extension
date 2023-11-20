@@ -1,4 +1,6 @@
 # BringBackTwitter V.1.1
+Development has been moved [here.](https://github.com/frostdevelop/bringbacktwitter)
+---
 This extension brings back the twitter logo on Twitter.com!
 Disclaimer: This extension is in **ALPHA** so it might not work for some people
 If it doesn't, please dm @pacifiky on twitter.
